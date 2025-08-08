@@ -4,7 +4,7 @@ function add(num1, num2) {
   return result;
 }
 
-// can not access "result" because it is in 
+// can not access "result" because it is in Function Execution Context
 // console.log(result);
 
 // can access the variable "a" because it is declared in Global Execution Context
